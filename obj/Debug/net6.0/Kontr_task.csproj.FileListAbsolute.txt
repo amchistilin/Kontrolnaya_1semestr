@@ -1,0 +1,15 @@
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\bin\Debug\net6.0\Kontr_task.exe
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\bin\Debug\net6.0\Kontr_task.deps.json
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\bin\Debug\net6.0\Kontr_task.runtimeconfig.json
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\bin\Debug\net6.0\Kontr_task.dll
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\bin\Debug\net6.0\Kontr_task.pdb
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.csproj.AssemblyReference.cache
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.AssemblyInfoInputs.cache
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.AssemblyInfo.cs
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.dll
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\refint\Kontr_task.dll
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.pdb
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\Kontr_task.genruntimeconfig.cache
+C:\Users\artyo\Desktop\GB\C#\Kontrolnaya\Kontr_task\obj\Debug\net6.0\ref\Kontr_task.dll
